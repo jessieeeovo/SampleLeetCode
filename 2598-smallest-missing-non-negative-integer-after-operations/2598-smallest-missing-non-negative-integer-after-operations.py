@@ -1,4 +1,3 @@
-from collections import defaultdict
 class Solution:
     def findSmallestInteger(self, nums: List[int], value: int) -> int:
         # Weekly Contest 337, 03/19/2023
